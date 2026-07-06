@@ -50,7 +50,7 @@ Through this project, I learned:
 
 📸 Dashboard Preview
 
-Add a screenshot of your dashboard here.
+![Dashboard](Dashboard_Screenshot.png)
 
 👩‍💻 Author
 
