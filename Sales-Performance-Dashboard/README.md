@@ -50,7 +50,7 @@ Through this project, I learned:
 
 📸 Dashboard Preview
 
-![Sales Dashboard](images/dashboard.png)
+![Dashboard](Dashboard_Screenshot.png)
 
 👩‍💻 Author
 
